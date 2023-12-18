@@ -25,4 +25,29 @@ To configure the typescript with the project by running
 tsc --init
 
 ```
+By the above command a tsconfig.json file will be created, open it and paste the following lines.
+```
+{
+"compilerOptions": {
+"target": "ES6",  
+ "module": "commonjs",  
+ "rootDir": "./src",  
+ "moduleResolution": "node",  
+ "outDir": "./dist",  
+ "esModuleInterop": true,  
+ "forceConsistentCasingInFileNames": true,  
+ "strict": true,  
+ "skipLibCheck": true  
+ },
+"include": ["./src/**/*"]
+}
+```
+
+After that install following dependencies
+
+```
+npm install @types/node
+npm install -g ts-node
+
+```
 
