@@ -54,7 +54,7 @@ npm install -g ts-node
 ## Resources used in project
 * [How to set up TypeScript with Node.js and Express](https://blog.logrocket.com/how-to-set-up-node-typescript-express/)
 
-- [How to set up TypeScript with Node.js and Express](https://blog.logrocket.com/how-to-set-up-node-typescript-express/)
+- [Typescript paths with ts-node, ts-node-dev, and jest](https://medium.com/@fmoessle/typescript-paths-with-ts-node-ts-node-dev-and-jest-671deacf6428)
 
-- [How to set up TypeScript with Node.js and Express](https://blog.logrocket.com/how-to-set-up-node-typescript-express/)
+- [Delightful testing with Jest and TypeScript](https://kulshekhar.github.io/ts-jest/docs/getting-started/installation)
 
