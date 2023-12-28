@@ -58,3 +58,11 @@ npm install -g ts-node
 
 - [Delightful testing with Jest and TypeScript](https://kulshekhar.github.io/ts-jest/docs/getting-started/installation)
 
+## Resources for configure swagger documentation
+
+- [Document a Node.js REST API with Swagger and Open API](https://blog.tericcabrel.com/document-a-node-js-rest-api-with-swagger-and-open-api/)
+
+## Resources for configure CORS
+
+- [CORS in Express using TypeScript](https://gist.github.com/adjeim/a2ddb5214c92ce5d708fb0a3d6f073f6)
+
